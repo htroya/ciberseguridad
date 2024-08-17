@@ -1,2 +1,3 @@
 Este es el contenido inicial del archivo.
 Esta es una línea adicional.
+Cambios realizados en la nueva rama.
